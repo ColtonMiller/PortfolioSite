@@ -119,13 +119,17 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\ASPNET_logo.png" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\CSS3_logo.png" />
     <Content Include="Content\font-awesome.css" />
     <Content Include="Content\font-awesome.min.css" />
     <Content Include="Content\GitHub_Logo.png" />
+    <Content Include="Content\HTML5_Logo_512.png" />
     <Content Include="Content\Logo-2C-66px-TM.png" />
     <Content Include="Content\stockvault-mountains138737.jpg" />
+    <Content Include="Content\vslogo2012.png" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
