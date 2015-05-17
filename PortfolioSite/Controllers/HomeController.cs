@@ -15,16 +15,12 @@ namespace PortfolioSite.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Information About Colton Miller";
-
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
-
             return View();
-        }
+        } 
     }
 }

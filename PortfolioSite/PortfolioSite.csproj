@@ -122,6 +122,7 @@
     <Content Include="Content\ASPNET_logo.png" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\ColtonMillerResume.jpg" />
     <Content Include="Content\ColtonProfile.jpg" />
     <Content Include="Content\Coltsite3.jpg" />
     <Content Include="Content\CSS3_logo.png" />
@@ -129,7 +130,11 @@
     <Content Include="Content\font-awesome.min.css" />
     <Content Include="Content\GitHub_Logo.png" />
     <Content Include="Content\HTML5_Logo_512.png" />
+    <Content Include="Content\js3.png" />
     <Content Include="Content\Logo-2C-66px-TM.png" />
+    <Content Include="Content\MSFT_logo_rgb_C-Gray.png" />
+    <Content Include="Content\Roundel_OSX_Yosemite-PRINT.tif" />
+    <Content Include="Content\sqlserver2012.png" />
     <Content Include="Content\stockvault-mountains138737.jpg" />
     <Content Include="Content\vslogo2012.png" />
     <Content Include="favicon.ico" />
@@ -144,6 +149,7 @@
     <Content Include="fonts\fontawesome-webfont.woff" />
     <Content Include="fonts\fontawesome-webfont.woff2" />
     <Content Include="fonts\FontAwesome.otf" />
+    <Content Include="Content\ColtonMillerResume.pdf" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
