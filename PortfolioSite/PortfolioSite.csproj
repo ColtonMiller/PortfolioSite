@@ -126,6 +126,10 @@
     <Content Include="Content\ColtonProfile.jpg" />
     <Content Include="Content\Coltsite3.jpg" />
     <Content Include="Content\CSS3_logo.png" />
+    <Content Include="Content\FA1.PNG" />
+    <Content Include="Content\FA2.PNG" />
+    <Content Include="Content\FA3.PNG" />
+    <Content Include="Content\FA4.PNG" />
     <Content Include="Content\font-awesome.css" />
     <Content Include="Content\font-awesome.min.css" />
     <Content Include="Content\GitHub_Logo.png" />
@@ -134,6 +138,9 @@
     <Content Include="Content\Logo-2C-66px-TM.png" />
     <Content Include="Content\MSFT_logo_rgb_C-Gray.png" />
     <Content Include="Content\Roundel_OSX_Yosemite-PRINT.tif" />
+    <Content Include="Content\RYL1.PNG" />
+    <Content Include="Content\Ryl2.PNG" />
+    <Content Include="Content\RYL3.PNG" />
     <Content Include="Content\sqlserver2012.png" />
     <Content Include="Content\stockvault-mountains138737.jpg" />
     <Content Include="Content\vslogo2012.png" />
