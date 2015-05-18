@@ -18,6 +18,10 @@ namespace PortfolioSite.Controllers
         {
             return View();
         }
+        public ActionResult Work()
+        {
+            return View();
+        }
     }
     
 }
