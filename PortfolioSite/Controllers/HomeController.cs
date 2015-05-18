@@ -21,6 +21,7 @@ namespace PortfolioSite.Controllers
         public ActionResult Contact()
         {
             return View();
-        } 
+        }
+        
     }
 }

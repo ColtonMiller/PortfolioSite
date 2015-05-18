@@ -137,12 +137,14 @@
     <Content Include="Content\js3.png" />
     <Content Include="Content\Logo-2C-66px-TM.png" />
     <Content Include="Content\MSFT_logo_rgb_C-Gray.png" />
+    <Content Include="Content\Rick Astley - Never Gonna Give You Up.mp4" />
     <Content Include="Content\Roundel_OSX_Yosemite-PRINT.tif" />
     <Content Include="Content\RYL1.PNG" />
     <Content Include="Content\Ryl2.PNG" />
     <Content Include="Content\RYL3.PNG" />
     <Content Include="Content\sqlserver2012.png" />
     <Content Include="Content\stockvault-mountains138737.jpg" />
+    <Content Include="Content\UME.png" />
     <Content Include="Content\vslogo2012.png" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\fontawesome-webfont.svg" />
