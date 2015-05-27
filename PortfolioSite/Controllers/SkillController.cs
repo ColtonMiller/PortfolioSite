@@ -8,11 +8,6 @@ namespace PortfolioSite.Controllers
 {
     public class SkillController : Controller
     {
-        // GET: Skill Index
-        public ActionResult Index()
-        {
-            return View();
-        }
         // GET: Skill Resume
         public ActionResult Resume()
         {
